@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175961"
+    }
+  ],
+  "schema:description": "A letter to Jean Pierre Thibaud, chairman of Bodegas Chandon, with a summary of Zelma Long's recent visit and tasting at Bodegas Chandon.",
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-699_009_019-01.pdf"
+  },
+  "schema:creator": "Long, Zelma",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
+    "@value": "1996-08-20"
+  },
+  "schema:identifier": [
+    "ark:/87293/d38w38b95",
+    "D-699, Box:9, Folder:19"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-699_009_019-01_001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Letter to Jean Pierre Thibaud of Bodegas Chandon S.A.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

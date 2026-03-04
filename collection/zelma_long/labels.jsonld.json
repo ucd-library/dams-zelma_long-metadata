@@ -1,0 +1,148 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0080064",
+    "http://schema.org/name": "Stewart, Martha"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0519428",
+    "http://schema.org/name": "Amis du vin (Association)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0573119",
+    "http://schema.org/name": "Robert Mondavi Winery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0583172",
+    "http://schema.org/name": "Domaine Chandon"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0916820_4.3",
+    "http://schema.org/name": "Europe"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0946550",
+    "http://schema.org/name": "Grapes--Harvesting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1008726",
+    "http://schema.org/name": "Maps"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1016875",
+    "http://schema.org/name": "Menus"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1061684",
+    "http://schema.org/name": "Photographs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1167087",
+    "http://schema.org/name": "Vintners"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1168260",
+    "http://schema.org/name": "Viticulture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175907",
+    "http://schema.org/name": "Wine and wine making"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175918",
+    "http://schema.org/name": "Wine and wine making--Equipment and supplies"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175954",
+    "http://schema.org/name": "Wine cellars"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175961",
+    "http://schema.org/name": "Wine Industry"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175983",
+    "http://schema.org/name": "Wine labels"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175993",
+    "http://schema.org/name": "Wine Tasting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204082",
+    "http://schema.org/name": "Japan"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204289",
+    "http://schema.org/name": "France"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204543",
+    "http://schema.org/name": "Australia"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204940",
+    "http://schema.org/name": "Washington (State)--Seattle"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1210272",
+    "http://schema.org/name": "Germany"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1273793",
+    "http://schema.org/name": "California--Napa Valley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1276323",
+    "http://schema.org/name": "Argentina-Mendoza River Valley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423858",
+    "http://schema.org/name": "Slides"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1739997",
+    "http://schema.org/name": "Wine tourism"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1740629",
+    "http://schema.org/name": "Women vintners"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1746869",
+    "http://schema.org/name": "Wine barrels"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1916924",
+    "http://schema.org/name": "Simi Winery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919921",
+    "http://schema.org/name": "Ephemera"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919961",
+    "http://schema.org/name": "Records (Documents)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2003288",
+    "http://schema.org/name": "Correspondence"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2010341",
+    "http://schema.org/name": "Itineraries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/204616",
+    "http://schema.org/name": "South Africa"
+  }
+]
