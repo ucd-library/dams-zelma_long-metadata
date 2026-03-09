@@ -29,10 +29,10 @@
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2025"
+    "@value": "2026"
   },
   "schema:image": {
-    "@id": "info:fedora/home/enebeker/items/D-699_019_012/media/images/D-699_019_012_0001_recto.tif"
+    "@id": "info:fedora/item/ark:/87293/d3hd7p28x/media/images/D-699_019_012_0001_recto.tif"
   },
   "schema:description": "This collection contains documents, photographs, and news clippings related to Zelma Long and her long career in the Viticulture and Enology field. Featured subjects within this collection include papers related to her time managing wineries such as Robert Mondavi Winery, Simi Winery, Long Vineyards, Zelphi Wines, and business files related to her consultancy work. There are also materials pertaining to international travel, and subject files relating to the wine industry.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8z03h7p).",
   "schema:identifier": [
