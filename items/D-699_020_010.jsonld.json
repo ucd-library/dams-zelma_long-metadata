@@ -41,7 +41,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "France/Switzerland/Germany/England 1993 Itinerary, with notes",
+  "schema:name": "France/Switzerland/Germany/England 1993 Itinerary, with Notes",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
