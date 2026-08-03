@@ -36,7 +36,7 @@
     "D-699, Box:21, Folder:30"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/D-699_021_030_001.tif"
+    "@id": "@base:/media/images/D-699_021_030_0001_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
