@@ -28,7 +28,7 @@
   },
   "schema:creator": "University of California, Davis. Department of Viticulture and Enology",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1991-03-14"
   },
   "schema:identifier": [

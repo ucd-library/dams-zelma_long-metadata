@@ -25,7 +25,7 @@
   },
   "schema:creator": "Simi Winery",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1992-12-07"
   },
   "schema:identifier": [

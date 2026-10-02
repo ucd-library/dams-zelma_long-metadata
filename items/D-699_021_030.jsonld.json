@@ -28,8 +28,8 @@
   },
   "schema:creator": "",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
-    "@value": "1991-08-31"
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1999-08-31"
   },
   "schema:identifier": [
     "ark:/87293/d3m61c020",

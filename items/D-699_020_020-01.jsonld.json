@@ -28,7 +28,7 @@
   },
   "schema:creator": "Wine Institute",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1990-07-26"
   },
   "schema:identifier": [

@@ -24,7 +24,7 @@
   ],
   "schema:description": "A series of slides depicting the coopering process.",
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-699_034_002.pdf"
+    "@id": "@base:/media/images"
   },
   "schema:creator": "",
   "schema:datePublished": {
@@ -36,7 +36,7 @@
     "D-699, Box:34, Folder:2"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/D-699_034_002_0001_mount_recto.tif"
+    "@id": "@base:/media/images/D-699_034_002_0001_trsmv.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

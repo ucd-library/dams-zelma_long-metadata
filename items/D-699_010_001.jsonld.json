@@ -27,10 +27,7 @@
     "@id": "@base:/media/D-699_010_001.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1970circa"
-  },
+  "schema:datePublished": "1970~",
   "schema:identifier": [
     "ark:/87293/d31g0j45d",
     "D-699, Box:10, Folder:1"

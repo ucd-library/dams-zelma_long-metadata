@@ -27,10 +27,7 @@
     "@id": "@base:/media/D-699_001_016.pdf"
   },
   "schema:creator": "Long, Zelma",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1969-1971"
-  },
+  "schema:datePublished": "1969/1971",
   "schema:identifier": [
     "ark:/87293/d3r49gk2f",
     "D-699, Box:1, Folder:16"

@@ -27,10 +27,6 @@
     "@id": "@base:/media/D-699_004_028-01.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "undated"
-  },
   "schema:identifier": [
     "ark:/87293/d39w0980h",
     "D-699, Box:4, Folder:28"

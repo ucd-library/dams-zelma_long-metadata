@@ -27,10 +27,7 @@
     "@id": "@base:/media/D-699_004_028-02.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1980circa"
-  },
+  "schema:datePublished": "1980~",
   "schema:identifier": [
     "ark:/87293/d3639kf6h",
     "D-699, Box:4, Folder:28"

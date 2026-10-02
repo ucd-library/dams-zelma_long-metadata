@@ -31,7 +31,7 @@
   },
   "schema:creator": "Clifton, Cathy",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1995-05-02"
   },
   "schema:identifier": [

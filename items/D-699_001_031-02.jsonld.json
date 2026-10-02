@@ -27,10 +27,7 @@
     "@id": "@base:/media/D-699_001_031-02.pdf"
   },
   "schema:creator": "Long, Zelma",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
-    "@value": "1968-03 to 1968-04"
-  },
+  "schema:datePublished": "1968-03/1968-04",
   "schema:identifier": [
     "ark:/87293/d3736mb77",
     "D-699, Box:1, Folder:31"

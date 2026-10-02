@@ -27,19 +27,16 @@
   ],
   "schema:description": "Slides of Zelma Long in the Barrel Room",
   "schema:associatedMedia": {
-    "@id": "@base:/media/D-699_001_034.pdf"
+    "@id": "@base:/media/images"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1977-1988"
-  },
+  "schema:datePublished": "1977/1988",
   "schema:identifier": [
     "ark:/87293/d33b5wj2m",
     "D-699, Box:1, Folder:34"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/D-699_001_034_0001_envelope_recto.tif"
+    "@id": "@base:/media/images/D-699_001_034_0001_trsmv.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

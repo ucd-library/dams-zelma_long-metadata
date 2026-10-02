@@ -31,7 +31,7 @@
   },
   "schema:creator": "Long, Zelma",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1993-01-29"
   },
   "schema:identifier": [

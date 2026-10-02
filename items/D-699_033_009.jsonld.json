@@ -30,10 +30,7 @@
     "@id": "@base:/media/D-699_033_009.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1975-1976"
-  },
+  "schema:datePublished": "1975~/1976~",
   "schema:identifier": [
     "ark:/87293/d3xg9fm4f",
     "D-699, Box:33, Folder:9"

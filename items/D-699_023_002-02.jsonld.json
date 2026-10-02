@@ -30,10 +30,6 @@
     "@id": "@base:/media/D-699_023_002-02.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "undated"
-  },
   "schema:identifier": [
     "ark:/87293/d3377648k",
     "D-699, Box:23, Folder:2"

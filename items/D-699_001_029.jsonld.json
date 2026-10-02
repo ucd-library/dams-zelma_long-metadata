@@ -28,7 +28,7 @@
   },
   "schema:creator": "Mondavi, Robert, 1913-2008",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "1992-12-28"
   },
   "schema:identifier": [

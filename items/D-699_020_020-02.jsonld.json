@@ -27,10 +27,7 @@
     "@id": "@base:/media/D-699_020_020-02.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gDate",
-    "@value": "1990-05-30 - 1990-06-02"
-  },
+  "schema:datePublished": "1990-05-30/1990-06-02",
   "schema:identifier": [
     "ark:/87293/d3vq2sm0s",
     "D-699, Box:20, Folder:20"

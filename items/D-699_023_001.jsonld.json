@@ -27,10 +27,6 @@
     "@id": "@base:/media/D-699_023_001.pdf"
   },
   "schema:creator": "Long, Zelma",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "undated"
-  },
   "schema:identifier": [
     "ark:/87293/d3br8mr6c",
     "D-699, Box:23, Folder:1"
